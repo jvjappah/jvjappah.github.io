@@ -15,7 +15,9 @@ While health insurance coverage and access to healthcare are important inputs in
 Using randomized controlled trials and other empirical approaches, I study policies and interventions aimed at reducing poverty, expanding opportunity, and improving health. More broadly, I am interested in how economic research can contribute to a better understanding of the policies and institutions that shape health, poverty, and economic opportunity.
 
 Here you can find information about my research and other academic activities.
+
 [Download my CV (PDF)](/files/Jlateh_Vincent_Jappah_CV.pdf){: .btn .btn--primary}
+
 [Job Market Paper](/files/job_market_paper.pdf){: .btn .btn--primary}
 ## Research Fields
 
