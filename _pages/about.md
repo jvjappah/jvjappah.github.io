@@ -19,6 +19,7 @@ Here you can find information about my research and other academic activities.
 [Download my CV (PDF)](/files/Jlateh_Vincent_Jappah_CV.pdf){: .btn .btn--primary}
 
 [Job Market Paper](/files/job_market_paper.pdf){: .btn .btn--primary}
+
 ## Research Fields
 
 - Health Economics
@@ -31,8 +32,10 @@ Here you can find information about my research and other academic activities.
 
 ### Work in Progress
 
-- *What Is the Impact of Medical School Openings on Physician Stock in Africa?*
-- *Challenges to Increasing Blood Supply in Resource-Limited Settings: Insights from Ghana and Sierra Leone, West Africa*
+<ul>
+  <li><span style="font-style: italic; font-weight: 400;">What Is the Impact of Medical School Openings on Physician Stock in Africa?</span></li>
+  <li><span style="font-style: italic; font-weight: 400;">Challenges to Increasing Blood Supply in Resource-Limited Settings: Insights from Ghana and Sierra Leone, West Africa</span></li>
+</ul>
 ---
 
 *This website uses Google Analytics to collect aggregated, non-identifying information about website traffic and visitor location.*
