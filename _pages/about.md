@@ -33,6 +33,8 @@ Here you can find information about my research and other academic activities.
 
 - *What Is the Impact of Medical School Openings on Physician Stock in Africa?*
 - *Challenges to Increasing Blood Supply in Resource-Limited Settings: Insights from Ghana and Sierra Leone, West Africa*
+---
 
+*This website uses Google Analytics to collect aggregated, non-identifying information about website traffic and visitor location.*
 
 
