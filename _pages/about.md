@@ -26,7 +26,7 @@ Here you can find information about my research and other academic activities.
 - Public Economics
 - Experimental and Behavioral Economics
 - Market Design
-
+  
 ## Current Research
 
 ### Work in Progress
