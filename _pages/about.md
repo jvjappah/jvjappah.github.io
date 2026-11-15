@@ -7,9 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Welcome to my website. I am a PhD candidate in Health Economics at Stanford University. My research spans health economics, development economics, public economics, experimental economics, and market design. I am particularly interested in understanding the economic and structural determinants of poverty and poor health outcomes.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+While health insurance coverage and access to healthcare are important inputs into health production, broader social, economic, and institutional factors also shape health and well-being. My work seeks to understand how these factors interact to improve or undermine individual and community outcomes.
+
+Using randomized controlled trials and other empirical approaches, I study policies and interventions aimed at reducing poverty, expanding opportunity, and improving health. More broadly, I am interested in how economic research can contribute to a better understanding of the policies and institutions that shape health, poverty, and economic opportunity.
+
+Here you can find information about my research and other academic activities.
+
+## Research Fields
+
+- Health Economics
+- Development Economics
+- Public Economics
+- Experimental and Behavioral Economics
+- Market Design
+
+## Current Research
+
+### Work in Progress
+
+- *What Is the Impact of Medical School Openings on Physician Stock in Africa?*
+- *Challenges to Increasing Blood Supply in Resource-Limited Settings: Insights from Ghana and Sierra Leone, West Africa*
+
 
 A data-driven personal website
 ======
