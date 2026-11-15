@@ -32,31 +32,31 @@ author:
   email            : "jvjappah@stanford.edu"
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         : 
+  arxiv            : 
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  inspire-hep      : 
+  impactstory      : 
+  orcid            : "https://orcid.org/0000-0003-1103-4874"
+  semantic         :
+  ssrn             : 
+  pubmed           : 
+  researchgate     :
+  scopus           :
+  zotero           :
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
+  codepen          :
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  github           : 
+  kaggle           :  
+  stackoverflow    :     
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  artstation       : 
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
