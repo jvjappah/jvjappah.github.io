@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
+
+[Download my CV (PDF)](/files/Jlateh_Vincent_Jappah_CV.pdf){: .btn .btn--primary}
 
 {% include base_path %}
 
