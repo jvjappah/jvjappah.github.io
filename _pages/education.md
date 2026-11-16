@@ -30,3 +30,8 @@ People's Friendship University of Russia (RUDN University), Moscow
 **Residency, General Pediatrics**  
 Children’s Infectious Diseases Clinical Hospital No. 6 and Morozov Children’s City Clinical Hospital  
 Moscow, Russia
+
+## Languages
+
+- English
+- Russian
