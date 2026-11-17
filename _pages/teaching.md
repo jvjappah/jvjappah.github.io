@@ -26,9 +26,9 @@ Courses:
 - Issues in Global Health Policy and Management
 - Global Health Policy and Management
 
-- ## Selected Teaching Evaluation Feedback
+## Selected Teaching Evaluation Feedback
 
-Student evaluations highlighted clear presentation of material, exceptional course organization, helpful feedback, and responsiveness to students. Selected comments include:
+Student evaluations highlighted clear presentation of material, strong course organization, helpful feedback, and responsiveness to students. Selected comments include:
 
 > “This instructor is by far one of the best instructors I've ever had. He is very knowledgeable, presents the material really clearly, and gives incredibly helpful feedback.”
 
@@ -36,7 +36,7 @@ Student evaluations highlighted clear presentation of material, exceptional cour
 
 > “The instructor created a line of course work throughout the semester that seemed to have a well thought out flow to it, so that ideas built on top of each other week to week.”
 
-[View selected teaching evaluation (PDF)](/files/teaching_evaluation.pdf){: .btn .btn--primary}
+[View Selected Teaching Evaluations (PDF)](/files/teaching_evaluation.pdf){: .btn .btn--primary}
 
 
 ## Mentoring and Research Programs
