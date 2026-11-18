@@ -79,7 +79,7 @@ author_profile: true
 
 - **Russian Federation Scholarship Award**  
   Ministry of Science and Higher Education, Russia  
-  *Full funding for medical school.*
+  *Full funding for medical school and residency training.*
 
 - **Refugee Scholarship Assistance Award**  
   Assistance For All (AFAL), Buduburam Refugee Camp, Ghana
