@@ -83,4 +83,4 @@ author_profile: true
 
 - **Refugee Scholarship Assistance Award**  
   Assistance For All (AFAL), Buduburam Refugee Camp, Ghana  
-  *Application and educational-support assistance while living as a refugee in Buduburam Refugee Camp.*
+  *Application and educational-support assistance while living in Buduburam Camp.*
