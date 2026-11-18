@@ -37,7 +37,8 @@ Here you can find information about my research and other academic activities.
   <li><span style="font-style: italic; font-weight: 400;">Challenges to Increasing Blood Supply in Resource-Limited Settings: Insights from Ghana and Sierra Leone, West Africa</span></li>
 </ul>
 ---
-
-*This website uses Google Analytics to collect aggregated, non-identifying information about website traffic and visitor location.*
+<p style="font-size: 0.8em; color: #666;">
+  <em>This website uses Google Analytics to collect aggregated, non-identifying information about website traffic and approximate visitor location.</em>
+</p>
 
 
