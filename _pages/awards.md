@@ -71,15 +71,16 @@ author_profile: true
 
 - **Weill Cornell Graduate School Scholarship Award**  
   Cornell University  
-  *Partial funding.*
+  *Partial funding for M.S. training in Health Policy and Economics.*
 
 - **Global Health Leadership Scholarship Award**  
   New York University  
-  *Partial funding.*
+  *Partial funding for M.P.H. training in Public Health.*
 
 - **Russian Federation Scholarship Award**  
   Ministry of Science and Higher Education, Russia  
   *Full funding for medical school and residency training.*
 
 - **Refugee Scholarship Assistance Award**  
-  Assistance For All (AFAL), Buduburam Refugee Camp, Ghana
+  Assistance For All (AFAL), Buduburam Refugee Camp, Ghana  
+  *Application and educational-support assistance while living as a refugee in Buduburam Refugee Camp.*
